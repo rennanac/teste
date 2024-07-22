@@ -1,2 +1,2 @@
 def teste(b, c):
-    a = b+c*c+b
+    a = b+b+c
